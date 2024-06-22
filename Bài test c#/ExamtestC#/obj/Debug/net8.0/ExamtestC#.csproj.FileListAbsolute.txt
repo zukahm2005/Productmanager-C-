@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\bin\Debug\net8.0\ExamtestC#.exe
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\bin\Debug\net8.0\ExamtestC#.deps.json
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\bin\Debug\net8.0\ExamtestC#.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\bin\Debug\net8.0\ExamtestC#.dll
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\bin\Debug\net8.0\ExamtestC#.pdb
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\ExamtestC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\ExamtestC#.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\ExamtestC#.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\ExamtestC#.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\ExamtestC#.dll
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\refint\ExamtestC#.dll
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\ExamtestC#.pdb
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\ExamtestC#.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Bài test c#\ExamtestC#\obj\Debug\net8.0\ref\ExamtestC#.dll
